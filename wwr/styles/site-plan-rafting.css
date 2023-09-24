@@ -5,8 +5,8 @@
     --accent1-color:#a43312;
     --accent2-color:#381d2a;
 
-    --heading-font:'steelblue' serif;
-    --paragraph-font:'gray' serif;
+    --heading-font:'steelblue', serif;
+    --paragraph-font:'gray', serif;
 
     --nav-background-color:#03D9DD;
     --nav-link-color: #03D9DD;
