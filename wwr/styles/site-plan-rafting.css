@@ -1,17 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=font-name&family=optional-2nd-font-name&display=swap');
+
 :root {
-    --primary-color:#03D9DD;
-    --secundary-color:#e7c24f;
-    --accent1-color:#a43312;
-    --accent2-color:#381d2a;
+    --primary-color: #03D9DD;
+    --secondary-color: #e7c24f;
+    --accent1-color: #a43312;
+    --accent2-color: #381d2a;
 
     --heading-font:'steelblue', serif;
     --paragraph-font:'gray', serif;
 
-    --nav-background-color:#03D9DD;
-    --nav-link-color: #03D9DD;
-    --nav-hover-link-color:#FFFFFF;
-    --nav-hover-background-color:#D9FCE4;
+    --nav-background-color: #03D9DD;
+    --nav-link-color:  #03D9DD;
+    --nav-hover-link-color: #FFFFFF;
+    --nav-hover-background-color: #D9FCE4;
 }
 
 body {
